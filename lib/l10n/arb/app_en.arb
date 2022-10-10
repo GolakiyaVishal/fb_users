@@ -1,0 +1,16 @@
+{
+    "@@locale": "en",
+    "userAppBarTitle": "User List",
+    "addUserAppBarTitle": "Add new user",
+    "labelName": "Name",
+    "labelCity": "City",
+    "labelProfession": "Profession",
+    "buttonTextAddUser": "Add User",
+    "errorName": "Please enter valid name",
+    "errorCity": "Please enter valid city name",
+    "errorProfession": "please select the profession",
+    "commonErrorText": "Something went wrong!\nPlease try again",
+    "addNewItemInstruction": "By pressing '+' sign button,\nadd new user in the list",
+    "emptyListText": "Let's do shopping",
+    "buttonTextEditUser": "Edit User"
+}

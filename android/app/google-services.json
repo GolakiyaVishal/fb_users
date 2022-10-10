@@ -1,0 +1,121 @@
+{
+  "project_info": {
+    "project_number": "1086744602832",
+    "project_id": "fb-users-baa92",
+    "storage_bucket": "fb-users-baa92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086744602832:android:bdee3bbd53f7399736d6d5",
+        "android_client_info": {
+          "package_name": "com.devgo.fb_users"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086744602832-45963kuefn6sruq2g5qdn6r4u5la70jl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.devgo.fb_users",
+            "certificate_hash": "1f3373409416889018070ee51e39f9b305a022f9"
+          }
+        },
+        {
+          "client_id": "1086744602832-r3275vp9cmmupc2dadp5q2nlq5rifa01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALO1kx1eocMp1Zq2_zcfSP92VCUj1xlIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086744602832-r3275vp9cmmupc2dadp5q2nlq5rifa01.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086744602832:android:e6e3c42a9508275236d6d5",
+        "android_client_info": {
+          "package_name": "com.devgo.fb_users.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086744602832-3dkn02am0lkblupbn4q7t1vpcumsor7h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.devgo.fb_users.dev",
+            "certificate_hash": "1f3373409416889018070ee51e39f9b305a022f9"
+          }
+        },
+        {
+          "client_id": "1086744602832-r3275vp9cmmupc2dadp5q2nlq5rifa01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALO1kx1eocMp1Zq2_zcfSP92VCUj1xlIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086744602832-r3275vp9cmmupc2dadp5q2nlq5rifa01.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086744602832:android:bb609f813d8ed5e136d6d5",
+        "android_client_info": {
+          "package_name": "com.devgo.fb_users.stg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086744602832-q2a5idhv6v7391jf9ngfn3o36qqq05g5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.devgo.fb_users.stg",
+            "certificate_hash": "1f3373409416889018070ee51e39f9b305a022f9"
+          }
+        },
+        {
+          "client_id": "1086744602832-r3275vp9cmmupc2dadp5q2nlq5rifa01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALO1kx1eocMp1Zq2_zcfSP92VCUj1xlIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086744602832-r3275vp9cmmupc2dadp5q2nlq5rifa01.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
